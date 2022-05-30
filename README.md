@@ -6,7 +6,7 @@ UI/UX design and front-end development
 Lots of things
 
 - 💞️ I’m looking to collaborate on ...
-Web apps
+Graphic design and Web apps
 
 - 📫 How to reach me ...
 
