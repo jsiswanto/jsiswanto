@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jsiswanto
+- 👋 Hi, I’m @jsiswanto, UI/UX Designer/Developer
 - 👀 I’m interested in ...
 UI/UX design and front-end development
 
